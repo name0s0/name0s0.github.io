@@ -1,0 +1,32 @@
+@charset "utf-8";
+
+
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,
+p,pre,abbr,address,cite,section,article,main,aside,nav,
+header,footer,ul,ol,dl,li,dt,dd,caption,figure,figcaption {
+          margin:0; padding:0;
+          box-sizing:border-box; }
+
+@font-face {
+     font-family:letterG;
+     src:url('../fonts/LetterGothicStd.otf');
+}
+
+@font-face {
+     font-family:NS_B;
+     src:url('../fonts/NanumSquareB.ttf');
+}
+
+@font-face {
+     font-family:NS_R;
+     src:url('../fonts/NanumSquareR.ttf');
+}
+
+
+li {list-style:none;}
+a{ text-decoration:none; color:#fff;font-family: letterG,sans-serif;}
+
+body, html { height:100%;
+                      font-family: NS_R, sans-serif;
+                      color:#fff;}
+

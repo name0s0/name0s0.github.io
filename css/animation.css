@@ -1,0 +1,60 @@
+@charset "utf-8";
+
+/*animation*/
+@keyframes star {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    20% {
+        transform: rotate(-75deg);
+    }
+
+    40% {
+        transform: rotate(0deg);
+    }
+
+    60% {
+        transform: rotate(75deg);
+    }
+
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+/*    top: 180px;
+    left: 50%;*/
+@keyframes bubble {
+    0% {
+        top: 150px;
+        left: 50%;
+    }
+
+    50% {
+        top: 170px;
+        left: 50%;
+    }
+
+    100% {
+        top: 150px;
+        left: 50%;
+    }
+}
+
+@keyframes bubble_2 {
+    0% {
+        top: 50px;
+        right: 30px;
+    }
+
+    50% {
+        top: 30px;
+        right: 30px;
+    }
+
+    100% {
+        top: 50px;
+        right: 30px;
+    }
+}

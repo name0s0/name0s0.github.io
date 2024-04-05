@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="레이어_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	 y="0px" width="359.603px" height="369.713px" viewBox="0 0 359.603 369.713" enable-background="new 0 0 359.603 369.713"
+	 xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<g>
+				
+					<radialGradient id="SVGID_1_" cx="1232.5664" cy="66.8564" r="180.1523" fx="1284.778" fy="239.2769" gradientTransform="matrix(-0.7057 0.7256 -0.7057 -0.7256 1096.8082 -660.9825)" gradientUnits="userSpaceOnUse">
+					<stop  offset="0.4624" style="stop-color:#7971B1;stop-opacity:0"/>
+					<stop  offset="0.8075" style="stop-color:#FFFFFF;stop-opacity:0"/>
+					<stop  offset="0.9728" style="stop-color:#FFFFFF;stop-opacity:0.8587"/>
+					<stop  offset="1" style="stop-color:#FFFFFF"/>
+				</radialGradient>
+				<path fill="url(#SVGID_1_)" d="M52.665,315.571c-70.22-72.19-70.22-189.236,0-261.427c70.218-72.192,184.06-72.192,254.276,0
+					c70.215,72.19,70.215,189.236,0,261.427C236.725,387.76,122.88,387.76,52.665,315.571z"/>
+			</g>
+			<text transform="matrix(1 0 0 1 88.9824 171.1016)"><tspan x="0" y="0" fill="#FFFFFF" font-family="'NanumSquareEB'" font-size="51">준비중인</tspan><tspan x="-46.409" y="61.2" fill="#FFFFFF" font-family="'NanumSquareEB'" font-size="51">페이지입니다</tspan></text>
+		</g>
+	</g>
+	<g>
+		<path fill="#FFFFFF" d="M71.471,69.824c-2.219,0.002-4.423-0.995-5.939-2.92c-2.687-3.406-2.203-8.431,1.076-11.219
+			c35.575-30.261,72.925-36.338,74.497-36.585c4.191-0.65,8.099,2.354,8.726,6.71c0.62,4.351-2.262,8.404-6.445,9.061l0,0
+			c-0.345,0.055-34.895,5.795-67.052,33.151C74.905,69.235,73.182,69.824,71.471,69.824z"/>
+		<path fill="#FFFFFF" d="M63.575,74.976c0,3.758-2.934,6.805-6.55,6.805c-3.613,0-6.548-3.047-6.548-6.805
+			c0-3.755,2.935-6.802,6.548-6.802C60.642,68.174,63.575,71.221,63.575,74.976z"/>
+	</g>
+</g>
+</svg>
